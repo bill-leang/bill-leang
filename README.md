@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jun Leng.
+- 👋 Hi, I’m Jun Leng (Bill).
 - 👀 I’m interested in data science and analysis.
-- 🌱 I’m currently using Python on my projects.
+- 🌱 I’m currently using Python on AI projects.
 - 💞️ I’m looking to collaborate on data projects.
 - 📫 Reach me at bill_leang at yahoo dot com 
 
