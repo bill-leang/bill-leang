@@ -1,8 +1,15 @@
 - 👋 Hi, I’m Jun Leng (Bill).
-- 👀 I’m interested in data science and analysis.
-- 🌱 I’m currently using Python on AI projects.
-- 💞️ I’m looking to collaborate on data projects.
-- 📫 Reach me at bill_leang at yahoo dot com 
+- 👀 I’m interested in data science and AI.
+  
+🛠️ Tech Stack
+
+Python 🐍 – Data analysis, automation, visualization, and machine learning.
+
+SQL 🗄️ – Querying, transformations, and database optimization.
+
+Excel 📊 – Advanced formulas, pivot tables, VBA macros.
+
+Power BI 📈 – Interactive dashboards, DAX, and data storytelling.
 
 [![Bill's GitHub stats](https://github-readme-stats.vercel.app/api?username=bill-leang)](https://github.com/anuraghazra/github-readme-stats)
 <!---
